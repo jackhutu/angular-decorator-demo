@@ -13,4 +13,4 @@ node_modules
 bower_components
 test_coverage
 private
-#dist
+dist
